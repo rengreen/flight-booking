@@ -1,0 +1,28 @@
+
+
+bilet: 1 z 3
+
+Identyfikator rezerwacji: WAWGDA421169
+Miejsce wylotu: Warsaw Chopin Airport WAW
+Miejsce przylotu: Gdańsk Lech Wałęsa GDA
+Data wylotu: 01.06.2019
+Data powrotu: 06.06.2019
+Cena: 3007.50 PLN
+
+bilet: 2 z 3
+
+Identyfikator rezerwacji: WAWGDA421169
+Miejsce wylotu: Warsaw Chopin Airport WAW
+Miejsce przylotu: Gdańsk Lech Wałęsa GDA
+Data wylotu: 01.06.2019
+Data powrotu: 06.06.2019
+Cena: 1095.50 PLN
+
+bilet: 3 z 3
+
+Identyfikator rezerwacji: WAWGDA421169
+Miejsce wylotu: Warsaw Chopin Airport WAW
+Miejsce przylotu: Gdańsk Lech Wałęsa GDA
+Data wylotu: 01.06.2019
+Data powrotu: 06.06.2019
+Cena: 1807.58 PLN
